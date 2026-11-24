@@ -1,0 +1,28 @@
+id,category,question,expected_source
+1,single-document,What happens in Jury 2 for a Model Making project?,GenAI_Implementation_Guide.pdf
+2,single-document,Can we change our Model Making topic after Jury 1?,GenAI_Implementation_Guide.pdf
+3,single-document,What does the ESE jury require?,GenAI_Implementation_Guide.pdf
+4,single-document,What is the recommended technology stack for RAG projects?,GenAI_Implementation_Guide.pdf
+5,single-document,How should a group of four divide responsibilities on a Model Making project?,GenAI_Implementation_Guide.pdf
+6,single-document,What is the minimum attendance percentage required to appear for the ESE?,Academic_Rules_and_Regulations.pdf
+7,single-document,What CGPA aggregate is required to be eligible for the End Semester Examination?,Academic_Rules_and_Regulations.pdf
+8,single-document,What grading scale does the university follow?,Academic_Rules_and_Regulations.pdf
+9,single-document,What happens in case of academic malpractice such as plagiarism in a project report?,Academic_Rules_and_Regulations.pdf
+10,single-document,What are the three project categories available for the final year project?,Project_Guidelines.pdf
+11,single-document,Does the topic change between juries in the Case Study category?,Project_Guidelines.pdf
+12,single-document,What is the group size for final year projects?,Project_Guidelines.pdf
+13,single-document,What must a project report document after every jury?,Project_Guidelines.pdf
+14,single-document,What is the minimum CGPA required for on-campus placement eligibility?,Placement_Guidelines.pdf
+15,single-document,What are the typical rounds in a placement process?,Placement_Guidelines.pdf
+16,single-document,What happens if a student accepts a placement offer through campus placement?,Placement_Guidelines.pdf
+17,single-document,What facilities does the central library provide?,Student_Handbook.pdf
+18,single-document,How should a student raise a grievance about project evaluation?,Student_Handbook.pdf
+19,single-document,Is ragging allowed on campus?,Student_Handbook.pdf
+20,cross-document,"If a student wants to carry their Model Making topic into the ESE jury and also be allowed to sit the exam, what does the implementation guide say about the topic and what does the academic rules document say about eligibility?","GenAI_Implementation_Guide.pdf;Academic_Rules_and_Regulations.pdf"
+21,cross-document,How does the project-category topic-continuity rule compare with the ESE examination eligibility requirement?,"Project_Guidelines.pdf;Academic_Rules_and_Regulations.pdf"
+22,cross-document,"What do the placement guidelines say about accepting an offer, and what does the implementation guide say about finishing the Model Making project — could both be happening at once?","Placement_Guidelines.pdf;GenAI_Implementation_Guide.pdf"
+23,cross-document,What do the Student Handbook and the Project Guidelines each say about spaces or conduct expectations during project work?,"Student_Handbook.pdf;Project_Guidelines.pdf"
+24,unanswerable,What is the exact attendance percentage for an event that is not mentioned in any of the documents?,NONE
+25,unanswerable,What is the fee refund policy for a cancelled semester?,NONE
+26,unanswerable,Which cloud provider does the placement cell recommend for technical interviews?,NONE
+27,unanswerable,What is the WiFi password for the student hostel?,NONE
